@@ -8,3 +8,5 @@ Program is only one C code and you play via terminal or IDE output.
 Game Explanation
 ---
 There is a pdf in repo that explains game and how to play.
+
+Have Fun!!!
